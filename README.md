@@ -1,4 +1,4 @@
-# 🌿 Leaf Disease Detection System
+# 🌿 🌱 PlantDx (Plant Diagnosis)
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg?style=flat&logo=streamlit)](https://streamlit.io/)
@@ -486,5 +486,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 [🚀 **Live Demo**](https://leaf-diseases-detect5.streamlit.app) • [🐛 **Report Issues**](https://github.com/shukur-alom/leaf-diseases-detect/issues) • [💡 **Request Features**](https://github.com/shukur-alom/leaf-diseases-detect/discussions)
 
 **Star ⭐ this repository if it helped you protect your plants!**
+
 
 </div>
